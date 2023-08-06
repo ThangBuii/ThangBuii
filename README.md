@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning html,css,js
 - 💞️ I’m looking to collaborate on front-end prj
-- 📫 How to reach me dbt030901@gmail.com
+- 📫 How to reach me dbt031510@gmail.com
 
 <!---
 ThangBuii/ThangBuii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
