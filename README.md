@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ThangBuii
-- 👀 I’m interested in games
-- 🌱 I’m currently learning html,css,js
-- 💞️ I’m looking to collaborate on front-end prj
+- 🌱 I’m specialized in Spring Boot Framework
+- 💞️ I’m currently learning Angular
 - 📫 How to reach me dbt031510@gmail.com
 
 <!---
